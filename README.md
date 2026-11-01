@@ -4,7 +4,7 @@
 
 Java와 Spring으로 백엔드를 개발합니다.
 
-[GitHub 프로젝트](https://github.com/PLZGET?tab=repositories) · [학습 기록](https://github.com/PLZGET/rag-youtube/tree/main/notebook)
+[GitHub 프로젝트](https://github.com/PLZGET?tab=repositories) · [개인 블로그](https://zero1999.tistory.com/)
 
 ---
 
@@ -17,7 +17,7 @@ Java와 Spring으로 백엔드를 개발합니다.
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=light" height="48" alt="Java, Spring 및 Spring Boot, MySQL, Redis">
 </picture>
 
-<sub>Java · Spring / Spring Boot · MySQL · Redis</sub>
+<sub>Java · Spring / Spring Boot · MySQL · Redis<br>데이터 접근 · Spring Data JPA · Hibernate<br>인증 · Spring Security</sub>
 
 **인프라 · CI/CD**
 
@@ -31,16 +31,13 @@ Java와 Spring으로 백엔드를 개발합니다.
 **개발 도구**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cpostman%2Cidea&theme=dark">
-  <img src="https://skillicons.dev/icons?i=git,postman,idea&theme=light" height="40" alt="Git, Postman, IntelliJ IDEA">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cpostman%2Cidea%2Cgradle&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,postman,idea,gradle&theme=light" height="40" alt="Git, Postman, IntelliJ IDEA, Gradle">
 </picture>
 
-<sub>Git · Postman · IntelliJ IDEA</sub>
+<sub>Git · Postman · IntelliJ IDEA<br>테스트 · JUnit 5 / 빌드 · Gradle<br>API 문서 · Swagger / OpenAPI</sub>
 
-<details>
-<summary>함께 사용하는 기술</summary>
-
-<br>
+**함께 사용하는 기술**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjs%2Creact%2Cnextjs&theme=dark">
@@ -48,8 +45,6 @@ Java와 Spring으로 백엔드를 개발합니다.
 </picture>
 
 <sub>Python · FastAPI · JavaScript · React · Next.js</sub>
-
-</details>
 
 ### 관심 분야
 
@@ -75,10 +70,3 @@ Java와 Spring으로 백엔드를 개발합니다.
 - [탈출 마스터](https://github.com/PLZGET/runAgent)  
   Next.js · FastAPI 기반의 퇴사 타이밍 분석·공고 추천 해커톤 MVP
 
-<details>
-<summary>학습과 실험 기록</summary>
-
-- [RAG 실험 노트](https://github.com/PLZGET/rag-youtube) — LangChain 문서 로더와 PDF 처리
-- [알고리즘 스터디](https://github.com/PLZGET/Baekjoon_team_B) — 백준 문제 풀이
-
-</details>
