@@ -2,8 +2,7 @@
 
 <samp>BACKEND DEVELOPER</samp>
 
-Java와 Spring을 주로 사용하는 백엔드 개발자입니다.  
-AWS를 함께 활용하며, 웹 서비스에 AI 기능을 연결하는 작업도 하고 있습니다.
+Java와 Spring으로 백엔드를 개발합니다.
 
 [GitHub 프로젝트](https://github.com/PLZGET?tab=repositories) · [학습 기록](https://github.com/PLZGET/rag-youtube/tree/main/notebook)
 
@@ -11,11 +10,23 @@ AWS를 함께 활용하며, 웹 서비스에 AI 기능을 연결하는 작업도
 
 ### 사용 기술
 
-**주로 사용합니다**  
-`Java` `Spring` `Spring Boot` `AWS`
+**주력 기술**
 
-**프로젝트에서 함께 활용합니다**  
-`Python` `FastAPI` `JavaScript` `React` `Next.js`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,aws&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws&theme=light" height="48" alt="Java, Spring 및 Spring Boot, AWS">
+</picture>
+
+<sub>Java · Spring / Spring Boot · AWS</sub>
+
+**함께 사용하는 기술**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,js,react,nextjs&theme=dark">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,js,react,nextjs&theme=light" height="36" alt="Python, FastAPI, JavaScript, React, Next.js">
+</picture>
+
+<sub>Python · FastAPI · JavaScript · React · Next.js</sub>
 
 ### 관심 분야
 
@@ -24,6 +35,11 @@ AWS를 함께 활용하며, 웹 서비스에 AI 기능을 연결하는 작업도
 - **AI 활용** — 웹 서비스의 AI 기능 연동과 RAG 학습
 
 ---
+
+### 수상 이력
+
+**Trip-Pups Global Explorer Award 수상**  
+[Hello World AI 해커톤](https://hackon.kr/e/1a32b615) · 2026.10.31
 
 ### 프로젝트
 
