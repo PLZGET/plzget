@@ -38,13 +38,13 @@ Java와 Spring으로 백엔드를 개발합니다.
 
 ### 수상 이력
 
-**Trip-Pups Global Explorer Award 수상**  
+**Trip-Pups Global Explorer Award 수상** — [BoothBites](https://github.com/PLZGET/boothbites)  
 [Hello World AI 해커톤](https://hackon.kr/e/1a32b615) · 2026.10.31
 
 ### 프로젝트
 
-- [XML · JSON 구조 검증](https://github.com/PLZGET/spring-xml-json-assert)  
-  Spring Boot · XMLUnit · JsonUnit을 활용한 데이터 구조 비교 테스트
+- [BoothBites · 부스바이트](https://github.com/PLZGET/boothbites)  
+  Cloudflare Workers · D1 · R2 기반의 AI 한·영 메뉴 등록·QR 주문 서비스
 - [InBody Analysis](https://github.com/PLZGET/inbody-analysis-project)  
   React · FastAPI · LangGraph로 구현한 인바디 분석 웹 애플리케이션
 - [탈출 마스터](https://github.com/PLZGET/runAgent)  
