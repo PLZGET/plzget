@@ -13,7 +13,7 @@ Java와 Spring으로 백엔드를 개발합니다.
 **주력 기술**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,aws&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Caws&theme=dark">
   <img src="https://skillicons.dev/icons?i=java,spring,aws&theme=light" height="48" alt="Java, Spring 및 Spring Boot, AWS">
 </picture>
 
@@ -22,7 +22,7 @@ Java와 Spring으로 백엔드를 개발합니다.
 **함께 사용하는 기술**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,fastapi,js,react,nextjs&theme=dark">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjs%2Creact%2Cnextjs&theme=dark">
   <img src="https://skillicons.dev/icons?i=py,fastapi,js,react,nextjs&theme=light" height="36" alt="Python, FastAPI, JavaScript, React, Next.js">
 </picture>
 
