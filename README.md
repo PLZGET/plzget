@@ -45,6 +45,8 @@ Java와 Spring으로 백엔드를 개발합니다.
 
 - [BoothBites · 부스바이트](https://github.com/PLZGET/boothbites)  
   Cloudflare Workers · D1 · R2 기반의 AI 한·영 메뉴 등록·QR 주문 서비스
+- [ClubHub · 동아리 관리 플랫폼](https://github.com/KDT-Club)  
+  Java · Spring Boot · MySQL · AWS S3 기반의 동아리 관리·커뮤니티 팀 프로젝트
 - [InBody Analysis](https://github.com/PLZGET/inbody-analysis-project)  
   React · FastAPI · LangGraph로 구현한 인바디 분석 웹 애플리케이션
 - [탈출 마스터](https://github.com/PLZGET/runAgent)  
