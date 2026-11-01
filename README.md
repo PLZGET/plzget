@@ -10,16 +10,37 @@ Java와 Spring으로 백엔드를 개발합니다.
 
 ### 사용 기술
 
-**주력 기술**
+**백엔드 · 데이터베이스**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Caws&theme=dark">
-  <img src="https://skillicons.dev/icons?i=java,spring,aws&theme=light" height="48" alt="Java, Spring 및 Spring Boot, AWS">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java%2Cspring%2Cmysql%2Credis&theme=dark">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,redis&theme=light" height="48" alt="Java, Spring 및 Spring Boot, MySQL, Redis">
 </picture>
 
-<sub>Java · Spring / Spring Boot · AWS</sub>
+<sub>Java · Spring / Spring Boot · MySQL · Redis</sub>
 
-**함께 사용하는 기술**
+**인프라 · CI/CD**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=aws%2Clinux%2Cdocker%2Cjenkins%2Cnginx%2Cgithubactions&theme=dark">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,jenkins,nginx,githubactions&theme=light" height="40" alt="AWS, Linux, Docker, Jenkins, Nginx, GitHub Actions">
+</picture>
+
+<sub>AWS · Linux · Docker · Jenkins · Nginx · GitHub Actions</sub>
+
+**개발 도구**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cpostman%2Cidea&theme=dark">
+  <img src="https://skillicons.dev/icons?i=git,postman,idea&theme=light" height="40" alt="Git, Postman, IntelliJ IDEA">
+</picture>
+
+<sub>Git · Postman · IntelliJ IDEA</sub>
+
+<details>
+<summary>함께 사용하는 기술</summary>
+
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cfastapi%2Cjs%2Creact%2Cnextjs&theme=dark">
@@ -27,6 +48,8 @@ Java와 Spring으로 백엔드를 개발합니다.
 </picture>
 
 <sub>Python · FastAPI · JavaScript · React · Next.js</sub>
+
+</details>
 
 ### 관심 분야
 
