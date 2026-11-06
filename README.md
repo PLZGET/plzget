@@ -2,9 +2,44 @@
 
 <samp>BACKEND DEVELOPER</samp>
 
-Java와 Spring으로 백엔드를 개발합니다.
+Java와 Spring으로 백엔드를 개발합니다. 최근에는 AI 에이전트로 주문·정산 같은 반복 업무를 연결하는 서비스를 만들고 있습니다.
 
 [GitHub 프로젝트](https://github.com/PLZGET?tab=repositories) · [개인 블로그](https://zero1999.tistory.com/)
+
+---
+
+### 수상 이력
+
+**대구한의대학교 총장상 수상** — [청도 농가 AI 사무장](https://github.com/PLZGET/cheongdo-ai-samujang)<br>
+[2026 청도 바이브코딩 해커톤](https://github.com/hackersground-kr/hackathon-cheongdo) · 2026.11.05
+
+**Trip-Pups Global Explorer Award 수상** — [BoothBites](https://github.com/PLZGET/boothbites)<br>
+[Hello World AI 해커톤](https://hackon.kr/e/1a32b615) · 2026.10.31
+
+### 프로젝트
+
+- [청도 농가 AI 사무장](https://github.com/PLZGET/cheongdo-ai-samujang)<br>
+  카카오톡 주문·입금 문자를 정리하고, 사용자 승인 후 장부·재고·출고 CSV로 연결하는 농가 업무 앱<br>
+  GitHub Copilot SDK · Microsoft Agent Framework · FastAPI · React · Azure
+- [BoothBites · 부스바이트](https://github.com/PLZGET/boothbites)<br>
+  Cloudflare Workers · D1 · R2 기반의 AI 한·영 메뉴 등록·QR 주문 서비스
+- [ClubHub · 동아리 관리 플랫폼](https://github.com/KDT-Club)<br>
+  Java · Spring Boot · MySQL · AWS S3 기반의 동아리 관리·커뮤니티 팀 프로젝트
+- [InBody Analysis](https://github.com/PLZGET/inbody-analysis-project)<br>
+  React · FastAPI · LangGraph로 구현한 인바디 분석 웹 애플리케이션
+- [탈출 마스터](https://github.com/PLZGET/runAgent)<br>
+  Next.js · FastAPI 기반의 퇴사 타이밍 분석·공고 추천 해커톤 MVP
+
+<details>
+<summary>청도 농가 AI 사무장 화면 보기</summary>
+
+<p>고객별 원문과 확인 질문을 함께 보는 주문 작업함입니다. 합성 예제로 실행한 로컬 리디자인 화면입니다.</p>
+
+<a href="https://github.com/PLZGET/cheongdo-ai-samujang">
+  <img src="https://raw.githubusercontent.com/PLZGET/cheongdo-ai-samujang/aa35a890cfd6756ee8609e9183cddcc387d67efe/docs/images/desktop-orders.png" alt="청도 농가 AI 사무장: 고객 목록, 주문 원문, 입금 연결 확인 질문을 보여 주는 데스크톱 화면">
+</a>
+
+</details>
 
 ---
 
@@ -49,24 +84,6 @@ Java와 Spring으로 백엔드를 개발합니다.
 ### 관심 분야
 
 - **백엔드 개발** — Spring 기반 API 개발과 테스트
-- **클라우드** — AWS를 활용한 서비스 환경 구성
-- **AI 활용** — 웹 서비스의 AI 기능 연동과 RAG 학습
-
----
-
-### 수상 이력
-
-**Trip-Pups Global Explorer Award 수상** — [BoothBites](https://github.com/PLZGET/boothbites)  
-[Hello World AI 해커톤](https://hackon.kr/e/1a32b615) · 2026.10.31
-
-### 프로젝트
-
-- [BoothBites · 부스바이트](https://github.com/PLZGET/boothbites)  
-  Cloudflare Workers · D1 · R2 기반의 AI 한·영 메뉴 등록·QR 주문 서비스
-- [ClubHub · 동아리 관리 플랫폼](https://github.com/KDT-Club)  
-  Java · Spring Boot · MySQL · AWS S3 기반의 동아리 관리·커뮤니티 팀 프로젝트
-- [InBody Analysis](https://github.com/PLZGET/inbody-analysis-project)  
-  React · FastAPI · LangGraph로 구현한 인바디 분석 웹 애플리케이션
-- [탈출 마스터](https://github.com/PLZGET/runAgent)  
-  Next.js · FastAPI 기반의 퇴사 타이밍 분석·공고 추천 해커톤 MVP
+- **클라우드** — AWS·Azure를 활용한 서비스 환경 구성
+- **AI 활용** — AI 에이전트의 업무 흐름 설계와 RAG 학습
 
