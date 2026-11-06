@@ -10,10 +10,10 @@ Java와 Spring으로 백엔드를 개발합니다. 최근에는 AI 에이전트�
 
 ### 수상 이력
 
-**대구한의대학교 총장상 수상** — [청도 농가 AI 사무장](https://github.com/PLZGET/cheongdo-ai-samujang)<br>
+**🏆대구한의대학교 총장상 수상** — [청도 농가 AI 사무장](https://github.com/PLZGET/cheongdo-ai-samujang)<br>
 [2026 청도 바이브코딩 해커톤](https://github.com/hackersground-kr/hackathon-cheongdo) · 2026.11.05
 
-**Trip-Pups Global Explorer Award 수상** — [BoothBites](https://github.com/PLZGET/boothbites)<br>
+**🏆Trip-Pups Global Explorer Award 수상** — [BoothBites](https://github.com/PLZGET/boothbites)<br>
 [Hello World AI 해커톤](https://hackon.kr/e/1a32b615) · 2026.10.31
 
 ### 프로젝트
