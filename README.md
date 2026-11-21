@@ -10,6 +10,9 @@ Java와 Spring으로 백엔드를 개발합니다. 최근에는 AI 에이전트�
 
 ### 수상 이력
 
+**🏆Trip-Pups Pick 수상** [Guess & Go] (https://github.com/PLZGET/codebase-revival-ramp)<br>
+[Korea Local Marketing Hackathon 2026](https://hackon.kr/e/002e1704) · 2026.11.21
+
 **🏆대구한의대학교 총장상 수상** — [청도 농가 AI 사무장](https://github.com/PLZGET/cheongdo-ai-samujang)<br>
 [2026 청도 바이브코딩 해커톤](https://github.com/hackersground-kr/hackathon-cheongdo) · 2026.11.05
 
